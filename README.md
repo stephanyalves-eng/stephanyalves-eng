@@ -11,6 +11,10 @@ Production engineer with about four years in aerospace procurement and supplier 
 | **AeroQuote Compass** | Supplier quotation intelligence: AI extraction with buyer review, total annual landed cost, configurable supplier scoring, risk and anomaly detection, justified recommendation, PDF/Excel/CSV export. 78 automated tests. | [Live app](https://aeroquote-compass.lovable.app) · [Code](https://github.com/stephanyalves-eng/aeroquote-compass) |
 | **Procurement analytics with SQL and Python** | Spend, supplier and delivery analysis on the public Olist dataset. | In progress |
 | **Supplier performance dashboard in Tableau** | Supplier scorecards and delivery risk, built for decision meetings. | In progress |
+| **Wire harness and connector should-cost** | Bottom-up should-cost and category strategy for wire harnesses and connectors, calibrated on Comex Stat import prices, with a copper price-adjustment clause backtested for both buyer and supplier. | In progress |
+| **Field failure intelligence and crimping SPC** | Links field failure modes from NHTSA and FAA data to crimp height control, with SPC charts, Cpk, Gage R&R, an 8D on a real recall and an AIAG-VDA PFMEA. | In progress |
+| **Assembly line simulation for rate ramp-up** | Discrete-event simulation of a subassembly line moving from 42 to 47 aircraft per month, comparing line improvements by cost per additional unit. | In progress |
+| **Mine-to-port planning and fleet reliability** | Linear programming model of a mine, rail and port network that maximizes margin within iron grade limits, uses shadow prices to rank bottlenecks and adds Weibull-based fleet availability. | In progress |
 
 ### How I work
 
