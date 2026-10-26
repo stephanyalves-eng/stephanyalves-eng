@@ -32,6 +32,6 @@ Production engineer with about four years in aerospace procurement and supplier 
 
 ### Contact
 
-Belo Horizonte, Brazil · [LinkedIn](https://www.linkedin.com/in/stephany-alves) · stephany.alves@aol.com
+Belo Horizonte, Brazil · [LinkedIn](https://www.linkedin.com/in/stephany-alves)
 
 <sub>All public projects use synthetic or public data. No confidential company information.</sub>
