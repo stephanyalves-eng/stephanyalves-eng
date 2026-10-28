@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 170" width="900" height="170" role="img" aria-labelledby="t d">
+  <title id="t">How I work</title>
+  <desc id="d">Signal, a business question; Structure, organized data; Decision, the choice it supports; Impact, what changed.</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0 0 L10 5 L0 10 z" fill="#35D58A"/>
+    </marker>
+    <style>
+      .step { fill: #123D35; stroke: #1E5246; stroke-width: 1.5; }
+      .num { font: 600 12px 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; fill: #8FA99D; letter-spacing: 1.5px; }
+      .name { font: 700 20px 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; fill: #35D58A; }
+      .note { font: 400 13px 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; fill: #D2DED7; }
+      .link { stroke: #35D58A; stroke-width: 2; fill: none; }
+    </style>
+  </defs>
+
+  <rect width="900" height="170" rx="14" fill="#0B302B"/>
+
+  <g transform="translate(30 35)">
+    <rect class="step" width="180" height="100" rx="10"/>
+    <text class="num" x="18" y="28">01</text>
+    <text class="name" x="18" y="58">Signal</text>
+    <text class="note" x="18" y="82">a business question</text>
+  </g>
+  <g transform="translate(250 35)">
+    <rect class="step" width="180" height="100" rx="10"/>
+    <text class="num" x="18" y="28">02</text>
+    <text class="name" x="18" y="58">Structure</text>
+    <text class="note" x="18" y="82">data that answers it</text>
+  </g>
+  <g transform="translate(470 35)">
+    <rect class="step" width="180" height="100" rx="10"/>
+    <text class="num" x="18" y="28">03</text>
+    <text class="name" x="18" y="58">Decision</text>
+    <text class="note" x="18" y="82">the choice it supports</text>
+  </g>
+  <g transform="translate(690 35)">
+    <rect class="step" width="180" height="100" rx="10" stroke="#35D58A"/>
+    <text class="num" x="18" y="28">04</text>
+    <text class="name" x="18" y="58">Impact</text>
+    <text class="note" x="18" y="82">what changed</text>
+  </g>
+
+  <line class="link" x1="212" y1="85" x2="246" y2="85" marker-end="url(#arrow)"/>
+  <line class="link" x1="432" y1="85" x2="466" y2="85" marker-end="url(#arrow)"/>
+  <line class="link" x1="652" y1="85" x2="686" y2="85" marker-end="url(#arrow)"/>
+</svg>
