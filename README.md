@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/stephany-alves"><img src="https://img.shields.io/badge/LinkedIn-stephany--alves-35D58A?style=for-the-badge&labelColor=0B302B" alt="LinkedIn"></a>
   <img src="https://img.shields.io/badge/Location-Belo_Horizonte,_BR-35D58A?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0B302B" alt="Belo Horizonte, Brazil">
   <img src="https://img.shields.io/github/followers/stephanyalves-eng?label=Followers&style=for-the-badge&logo=github&color=35D58A&labelColor=0B302B" alt="GitHub followers">
-  <img src="https://komarev.com/ghpvc/?username=stephanyalves-eng&label=Profile%20views&color=35D58A&style=for-the-badge" alt="Profile views">
+  <img src="https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fkomarev.com%2Fghpvc%2F%3Fusername%3Dstephanyalves-eng&query=%28%2F%2F%2A%5Blocal-name%28%29%3D%27text%27%5D%29%5Blast%28%29%5D&label=Profile%20views&style=for-the-badge&color=35D58A&labelColor=0B302B&cacheSeconds=300" alt="Profile views">
 </p>
 
 <p align="center">
@@ -143,8 +143,8 @@ Every project starts from a business question, organizes the data that answers i
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stephanyalves-eng&show_icons=true&count_private=true&hide_border=true&bg_color=0B302B&title_color=35D58A&text_color=D2DED7&icon_color=35D58A&ring_color=35D58A&border_radius=8" width="48%" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephanyalves-eng&layout=compact&hide_border=true&bg_color=0B302B&title_color=35D58A&text_color=D2DED7&border_radius=8" width="48%" alt="Top languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=stephanyalves-eng&show_icons=true&count_private=true&hide_border=true&bg_color=0B302B&title_color=35D58A&text_color=D2DED7&icon_color=35D58A&ring_color=35D58A&border_radius=8" width="48%" alt="GitHub stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=stephanyalves-eng&layout=compact&hide_border=true&bg_color=0B302B&title_color=35D58A&text_color=D2DED7&border_radius=8" width="48%" alt="Top languages" />
   <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=stephanyalves-eng&hide_border=true&background=0B302B&ring=35D58A&fire=35D58A&currStreakNum=D2DED7&sideNums=D2DED7&currStreakLabel=35D58A&sideLabels=D2DED7&dates=8FA99D&stroke=1E5246&border_radius=8" width="70%" alt="Commit streak" />
 </div>
