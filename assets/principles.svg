@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 250" width="900" height="250" role="img" aria-labelledby="t d">
+  <title id="t">principles.md</title>
+  <desc id="d">1. AI extracts. Code calculates. You decide. 2. Calculations stay deterministic. 3. Every recommendation shows its reasoning. 4. Synthetic or public data only.</desc>
+  <defs>
+    <style>
+      .mono { font-family: 'Fira Code', 'Cascadia Code', Consolas, 'DejaVu Sans Mono', monospace; }
+      .tab { font-size: 13px; fill: #D2DED7; }
+      .ln { font-size: 15px; fill: #5E7F73; }
+      .kw { font-size: 17px; fill: #35D58A; font-weight: 600; }
+      .tx { font-size: 17px; fill: #D2DED7; }
+      .cm { font-size: 13px; fill: #8FA99D; }
+    </style>
+  </defs>
+
+  <rect width="900" height="250" rx="14" fill="#0B302B"/>
+  <rect x="0.75" y="0.75" width="898.5" height="248.5" rx="13.5" fill="none" stroke="#1E5246" stroke-width="1.5"/>
+
+  <!-- window bar -->
+  <path d="M0 14 A14 14 0 0 1 14 0 H886 A14 14 0 0 1 900 14 V44 H0 Z" fill="#123D35"/>
+  <circle cx="24" cy="22" r="6" fill="#1E5246"/>
+  <circle cx="44" cy="22" r="6" fill="#1E5246"/>
+  <circle cx="64" cy="22" r="6" fill="#35D58A"/>
+  <rect x="92" y="10" width="132" height="34" rx="6" fill="#0B302B"/>
+  <rect x="92" y="41" width="132" height="3" fill="#35D58A"/>
+  <text class="mono tab" x="158" y="31" text-anchor="middle">principles.md</text>
+  <text class="mono cm" x="876" y="28" text-anchor="end">how I make sourcing decisions</text>
+
+  <!-- gutter -->
+  <line x1="62" y1="58" x2="62" y2="236" stroke="#1E5246" stroke-width="1"/>
+
+  <text class="mono ln" x="44" y="88" text-anchor="end">1</text>
+  <text class="mono" x="80" y="88"><tspan class="kw">AI extracts.</tspan><tspan class="tx"> Code calculates. </tspan><tspan class="kw">You decide.</tspan></text>
+
+  <text class="mono ln" x="44" y="128" text-anchor="end">2</text>
+  <text class="mono" x="80" y="128"><tspan class="tx">Calculations stay </tspan><tspan class="kw">deterministic</tspan><tspan class="tx">.</tspan></text>
+
+  <text class="mono ln" x="44" y="168" text-anchor="end">3</text>
+  <text class="mono" x="80" y="168"><tspan class="tx">Every recommendation </tspan><tspan class="kw">shows its reasoning</tspan><tspan class="tx">.</tspan></text>
+
+  <text class="mono ln" x="44" y="208" text-anchor="end">4</text>
+  <text class="mono" x="80" y="208"><tspan class="kw">Synthetic or public data</tspan><tspan class="tx"> only.</tspan></text>
+
+  <!-- blinking cursor -->
+  <rect x="80" y="222" width="10" height="3" fill="#35D58A">
+    <animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/>
+  </rect>
+</svg>

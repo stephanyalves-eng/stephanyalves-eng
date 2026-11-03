@@ -42,7 +42,7 @@
   </tr>
 </table>
 
-### 🌱 Right now
+### 01 · 🌱 Right now
 
 - 🔭 **Building:** AeroQuote Compass and a should-cost model for wire harnesses and connectors
 - 📚 **Learning:** SQL, Python, Tableau and Databricks, through the portfolio projects below
@@ -53,7 +53,7 @@
 
 <hr>
 
-### 🚀 Featured project: AeroQuote Compass
+### 02 · 🚀 Featured project: AeroQuote Compass ![Live](https://img.shields.io/badge/●_LIVE-35D58A?style=flat-square)
 
 <div align="center">
   <a href="https://aeroquote-compass.lovable.app">
@@ -63,28 +63,36 @@
     Supplier quotation intelligence for strategic sourcing: AI extraction with buyer review, total annual landed cost,<br/>
     configurable supplier scoring, risk and anomaly detection, justified recommendation, PDF/Excel/CSV export. <b>78 automated tests.</b>
   </p>
+  <p>
+    <code>Supplier quotes</code> → <code>AI extraction</code> → <code>Buyer review</code> → <code>Landed cost</code> → <code>Scoring & risk</code> → <code>Justified recommendation</code>
+  </p>
+  <p>
+    <b>Stack:</b> <code>TypeScript</code> <code>Lovable</code> <code>AI extraction</code> <code>Automated tests</code>
+  </p>
   <a href="https://aeroquote-compass.lovable.app"><img src="https://img.shields.io/badge/▶_Live_app-35D58A?style=for-the-badge&labelColor=0B302B" alt="Live app"></a>
   <a href="https://github.com/stephanyalves-eng/aeroquote-compass"><img src="https://img.shields.io/badge/Code-0B302B?style=for-the-badge&logo=github&logoColor=35D58A" alt="Code"></a>
 </div>
 
-### 🧭 Selected work
+### 03 · 🧭 Selected work
 
-| Project | What it shows | Links |
-|---|---|---|
-| **Procurement analytics with SQL and Python** | Spend, supplier and delivery analysis on the public Olist dataset. | In progress |
-| **Supplier performance dashboard in Tableau** | Supplier scorecards and delivery risk, built for decision meetings. | In progress |
-| **Wire harness and connector should-cost** | Bottom-up should-cost and category strategy for wire harnesses and connectors, calibrated on Comex Stat import prices, with a copper price-adjustment clause backtested for both buyer and supplier. | In progress · [Repo](https://github.com/stephanyalves-eng/p1-wire-harness-should-cost) |
-| **Field failure intelligence and crimping SPC** | Links field failure modes from NHTSA and FAA data to crimp height control, with SPC charts, Cpk, Gage R&R, an 8D on a real recall and an AIAG-VDA PFMEA. | In progress · [Repo](https://github.com/stephanyalves-eng/p2-field-failure-spc) |
-| **Assembly line simulation for rate ramp-up** | Discrete-event simulation of a subassembly line moving from 42 to 47 aircraft per month, comparing line improvements by cost per additional unit. | In progress · [Repo](https://github.com/stephanyalves-eng/p3-assembly-line-simulation) |
-| **Mine-to-port planning and fleet reliability** | Linear programming model of a mine, rail and port network that maximizes margin within iron grade limits, uses shadow prices to rank bottlenecks and adds Weibull-based fleet availability. | In progress · [Repo](https://github.com/stephanyalves-eng/p4-mine-to-port-planning) |
+| Project | What it shows | Stack | Status |
+|---|---|---|---|
+| **Procurement analytics with SQL and Python** | Spend, supplier and delivery analysis on the public Olist dataset. | `SQL` `Python` | ![In progress](https://img.shields.io/badge/IN_PROGRESS-1E5246?style=flat-square) |
+| **Supplier performance dashboard in Tableau** | Supplier scorecards and delivery risk, built for decision meetings. | `Tableau` | ![In progress](https://img.shields.io/badge/IN_PROGRESS-1E5246?style=flat-square) |
+| **Wire harness and connector should-cost** | Bottom-up should-cost and category strategy for wire harnesses and connectors, calibrated on Comex Stat import prices, with a copper price-adjustment clause backtested for both buyer and supplier. | `Python` `Comex Stat` `Should-cost` | ![In progress](https://img.shields.io/badge/IN_PROGRESS-1E5246?style=flat-square)<br/>[Repo](https://github.com/stephanyalves-eng/p1-wire-harness-should-cost) |
+| **Field failure intelligence and crimping SPC** | Links field failure modes from NHTSA and FAA data to crimp height control, with SPC charts, Cpk, Gage R&R, an 8D on a real recall and an AIAG-VDA PFMEA. | `Python` `SPC` `PFMEA` `8D` | ![In progress](https://img.shields.io/badge/IN_PROGRESS-1E5246?style=flat-square)<br/>[Repo](https://github.com/stephanyalves-eng/p2-field-failure-spc) |
+| **Assembly line simulation for rate ramp-up** | Discrete-event simulation of a subassembly line moving from 42 to 47 aircraft per month, comparing line improvements by cost per additional unit. | `Python` `Discrete-event simulation` | ![In progress](https://img.shields.io/badge/IN_PROGRESS-1E5246?style=flat-square)<br/>[Repo](https://github.com/stephanyalves-eng/p3-assembly-line-simulation) |
+| **Mine-to-port planning and fleet reliability** | Linear programming model of a mine, rail and port network that maximizes margin within iron grade limits, uses shadow prices to rank bottlenecks and adds Weibull-based fleet availability. | `Python` `Linear programming` `Weibull` | ![In progress](https://img.shields.io/badge/IN_PROGRESS-1E5246?style=flat-square)<br/>[Repo](https://github.com/stephanyalves-eng/p4-mine-to-port-planning) |
 
-### ⚙️ How I work
+### 04 · ⚙️ How I work
 
 <img src="assets/how-i-work.svg" alt="Signal → Structure → Decision → Impact" width="100%" />
 
 Every project starts from a business question, organizes the data that answers it, shows the decision it supports and states what changed. AI handles the repetitive work; calculations stay deterministic and every recommendation shows its reasoning.
 
-### 🧰 Toolkit
+<img src="assets/principles.svg" alt="principles.md: 1. AI extracts. Code calculates. You decide. 2. Calculations stay deterministic. 3. Every recommendation shows its reasoning. 4. Synthetic or public data only." width="100%" />
+
+### 05 · 🧰 Toolkit
 
 <div align="center">
 
@@ -151,14 +159,14 @@ Every project starts from a business question, organizes the data that answers i
 
 </details>
 
-### 🎓 Background
+### 06 · 🎓 Background
 
 - Procurement analyst in aerospace direct materials (propulsion and avionics) until 2026, managing **200+ suppliers**.
 - **Six-figure (USD) savings** on strategic items without purchase history, validated by Finance, partly by adding new sources to single-source parts.
 - Led a Kaizen that removed **97% of the effort** in low-risk supplier due diligence renewals.
 - B.Sc. in Production Engineering and B.B.A. (UFVJM) · Postgraduate degree in Aeronautical Maintenance Engineering (PUC Minas) · Fluent in English and Spanish.
 
-### 📬 Contact
+### 07 · 📬 Contact
 
 Belo Horizonte, Brazil · [LinkedIn](https://www.linkedin.com/in/stephany-alves)
 
