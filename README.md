@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <code>Procurement & Supply Chain</code> · <code>Production Engineer</code> · <code>Data and AI for sourcing decisions</code>
+  <code>Procurement & Supply Chain</code> · <code>Industrial Engineer</code> · <code>Data and AI for sourcing decisions</code>
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  Production engineer with about four years in aerospace procurement and supplier management.<br/>
+  Industrial engineer with about four years in aerospace procurement and supplier management.<br/>
   I build portfolio projects that turn real sourcing problems into working tools, using synthetic data only.
 </p>
 
@@ -165,7 +165,7 @@ Every project starts from a business question, organizes the data that answers i
 - Procurement analyst in aerospace direct materials (propulsion and avionics) until 2026, managing **200+ suppliers**.
 - **Six-figure (USD) savings** on strategic items without purchase history, validated by Finance, partly by adding new sources to single-source parts.
 - Led a Kaizen that removed **97% of the effort** in low-risk supplier due diligence renewals.
-- B.Sc. in Production Engineering and B.B.A. (UFVJM) · Postgraduate degree in Aeronautical Maintenance Engineering (PUC Minas) · Fluent in English and Spanish.
+- B.Sc. in Industrial Engineering and B.B.A. (UFVJM) · Postgraduate degree in Aeronautical Maintenance Engineering (PUC Minas) · Fluent in English and Spanish.
 
 ### 07 · 📬 Contact
 
