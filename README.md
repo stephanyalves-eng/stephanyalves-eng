@@ -53,10 +53,11 @@
 - 📚 **Learning:** SQL, Python, Tableau and Databricks, through the portfolio projects below
 - 💬 **Ask me about:** should-cost, strategic sourcing, procurement, supplier quality, maintenance engineering, vendor management and procurement analytics
 - 🤝 **Open to:** Senior Procurement Analyst · Procurement Analyst · Strategic Sourcing Analyst · Supplier Quality Engineer · Data Analyst
+- 📍 **Availability:** Belo Horizonte, Brazil (UTC−3) · remote, hybrid or on-site · available immediately
 - ⚡ **Fun fact:** I can't look at a cable anymore without estimating its should-cost, copper price included.
 - 📖 **Outside work:** reading
 
-<hr>
+<img src="assets/divider.svg" alt="" width="100%" />
 
 ### 02 · 🚀 Featured project: AeroQuote Compass ![Live](https://img.shields.io/badge/●_LIVE-35D58A?style=flat-square)
 
@@ -78,6 +79,8 @@
   <a href="https://github.com/stephanyalves-eng/aeroquote-compass"><img src="https://img.shields.io/badge/Code-0B302B?style=for-the-badge&logo=github&logoColor=35D58A" alt="Code"></a>
 </div>
 
+<img src="assets/divider.svg" alt="" width="100%" />
+
 ### 03 · 🧭 Selected work
 
 | Project | What it shows | Stack | Status |
@@ -90,6 +93,16 @@
 | **Assembly line simulation for rate ramp-up** | Discrete-event simulation of a subassembly line moving from 42 to 47 aircraft per month, comparing line improvements by cost per additional unit. | `Python` `Discrete-event simulation` | ![In progress](https://img.shields.io/badge/IN_PROGRESS-1E5246?style=flat-square)<br/>[Repo](https://github.com/stephanyalves-eng/p3-assembly-line-simulation) |
 | **Mine-to-port planning and fleet reliability** | Linear programming model of a mine, rail and port network that maximizes margin within iron grade limits, uses shadow prices to rank bottlenecks and adds Weibull-based fleet availability. | `Python` `Linear programming` `Weibull` | ![In progress](https://img.shields.io/badge/IN_PROGRESS-1E5246?style=flat-square)<br/>[Repo](https://github.com/stephanyalves-eng/p4-mine-to-port-planning) |
 
+<p align="center"><b>Latest edition of the market briefs</b><br/><sub>Rebuilt automatically on the 16th of every month. These previews update by themselves.</sub></p>
+
+<p align="center">
+  <a href="https://github.com/stephanyalves-eng/procurement-market-briefs/tree/main/editions"><img src="https://raw.githubusercontent.com/stephanyalves-eng/procurement-market-briefs/main/docs/images/latest-aerospace-en.png" alt="Aerospace Supply Market Brief, latest edition" width="32%" /></a>
+  <a href="https://github.com/stephanyalves-eng/procurement-market-briefs/tree/main/editions"><img src="https://raw.githubusercontent.com/stephanyalves-eng/procurement-market-briefs/main/docs/images/latest-procurement-en.png" alt="Monthly Procurement Performance Report, latest edition" width="32%" /></a>
+  <a href="https://github.com/stephanyalves-eng/procurement-market-briefs/tree/main/editions"><img src="https://raw.githubusercontent.com/stephanyalves-eng/procurement-market-briefs/main/docs/images/latest-sqe-en.png" alt="Monthly Supplier Quality Report, latest edition" width="32%" /></a>
+</p>
+
+<img src="assets/divider.svg" alt="" width="100%" />
+
 ### 04 · ⚙️ How I work
 
 <img src="assets/how-i-work.svg" alt="Signal → Structure → Decision → Impact" width="100%" />
@@ -98,7 +111,21 @@ Every project starts from a business question, organizes the data that answers i
 
 <img src="assets/principles.svg" alt="principles.md: 1. AI extracts. Code calculates. You decide. 2. Calculations stay deterministic. 3. Every recommendation shows its reasoning. 4. Synthetic or public data only." width="100%" />
 
-### 05 · 🧰 Toolkit
+<img src="assets/divider.svg" alt="" width="100%" />
+
+### 05 · 🎯 Capabilities
+
+| Area | What I do |
+|---|---|
+| **Strategic sourcing** | RFQs, should-cost, adding qualified sources to single-source parts, negotiation backed by evidence |
+| **Supplier quality** | Supplier qualification, PPAP, 8D, SPC and Cpk, PFMEA |
+| **Procurement analytics** | Spend, savings, on-time delivery and supplier scorecards in Power BI, SQL and Python |
+| **Compliance and trade** | Incoterms, NCM classification, export control (EAR/ECCN), supplier due diligence |
+| **Continuous improvement** | Lean, Kaizen, A3, Ishikawa, 5 Whys |
+
+<img src="assets/divider.svg" alt="" width="100%" />
+
+### 06 · 🧰 Toolkit
 
 <div align="center">
 
@@ -152,6 +179,8 @@ Every project starts from a business question, organizes the data that answers i
 
 </div>
 
+<img src="assets/divider.svg" alt="" width="100%" />
+
 <details>
 <summary><b>📊 GitHub stats and activity</b> <sub>(click to expand)</sub></summary>
 <br/>
@@ -165,14 +194,18 @@ Every project starts from a business question, organizes the data that answers i
 
 </details>
 
-### 06 · 🎓 Background
+<img src="assets/divider.svg" alt="" width="100%" />
+
+### 07 · 🎓 Background
 
 - Procurement analyst in aerospace direct materials (propulsion and avionics) until 2026, managing **200+ suppliers**.
 - **Six-figure (USD) savings** on strategic items without purchase history, validated by Finance, partly by adding new sources to single-source parts.
 - Led a Kaizen that removed **97% of the effort** in low-risk supplier due diligence renewals.
 - B.Sc. in Industrial Engineering and B.B.A. (UFVJM) · Postgraduate degree in Aeronautical Maintenance Engineering (PUC Minas) · Fluent in English and Spanish.
 
-### 07 · 📬 Contact
+<img src="assets/divider.svg" alt="" width="100%" />
+
+### 08 · 📬 Contact
 
 Belo Horizonte, Brazil · [LinkedIn](https://www.linkedin.com/in/stephany-alves) · [Himalayas](https://himalayas.app/@stephanyalves) · [Medium](https://medium.com/@stephany.alves) · [Peerlist](https://peerlist.io/stephanyalves)
 
