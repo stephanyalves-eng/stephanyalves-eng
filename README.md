@@ -54,6 +54,7 @@
 - 💬 **Ask me about:** should-cost, strategic sourcing, procurement, supplier quality, maintenance engineering, vendor management and procurement analytics
 - 🤝 **Open to:** Senior Procurement Analyst · Procurement Analyst · Strategic Sourcing Analyst · Supplier Quality Engineer · Data Analyst
 - 📍 **Availability:** Belo Horizonte, Brazil (UTC−3) · remote, hybrid or on-site · available immediately
+- 🗣️ **Languages:** Brazilian Portuguese (native) · English (fluent) · Spanish (fluent)
 - ⚡ **Fun fact:** I can't look at a cable anymore without estimating its should-cost, copper price included.
 - 📖 **Outside work:** reading
 
@@ -201,7 +202,7 @@ Every project starts from a business question, organizes the data that answers i
 - Procurement analyst in aerospace direct materials (propulsion and avionics) until 2026, managing **200+ suppliers**.
 - **Six-figure (USD) savings** on strategic items without purchase history, validated by Finance, partly by adding new sources to single-source parts.
 - Led a Kaizen that removed **97% of the effort** in low-risk supplier due diligence renewals.
-- B.Sc. in Industrial Engineering and B.B.A. (UFVJM) · Postgraduate degree in Aeronautical Maintenance Engineering (PUC Minas) · Fluent in English and Spanish.
+- B.Sc. in Industrial Engineering and B.B.A. (UFVJM) · Postgraduate degree in Aeronautical Maintenance Engineering (PUC Minas) · Brazilian Portuguese (native), English and Spanish (fluent).
 
 <img src="assets/divider.svg" alt="" width="100%" />
 
