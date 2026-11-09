@@ -10,7 +10,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/stephany-alves"><img src="https://img.shields.io/badge/LinkedIn-stephany--alves-35D58A?style=for-the-badge&labelColor=0B302B" alt="LinkedIn"></a>
-  <a href="https://himalayas.app/@stephanyalves"><img src="https://img.shields.io/badge/Himalayas-stephanyalves-35D58A?style=for-the-badge&labelColor=0B302B" alt="Himalayas"></a>
   <a href="https://medium.com/@stephany.alves"><img src="https://img.shields.io/badge/Medium-%40stephany.alves-35D58A?style=for-the-badge&logo=medium&logoColor=white&labelColor=0B302B" alt="Medium"></a>
   <a href="https://peerlist.io/stephanyalves"><img src="https://img.shields.io/badge/Peerlist-stephanyalves-35D58A?style=for-the-badge&logo=peerlist&logoColor=white&labelColor=0B302B" alt="Peerlist"></a>
   <a href="https://dev.to/stephanyalves"><img src="https://img.shields.io/badge/DEV-stephanyalves-35D58A?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=0B302B" alt="DEV Community"></a>
