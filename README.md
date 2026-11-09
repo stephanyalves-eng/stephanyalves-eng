@@ -13,6 +13,7 @@
   <a href="https://himalayas.app/@stephanyalves"><img src="https://img.shields.io/badge/Himalayas-stephanyalves-35D58A?style=for-the-badge&labelColor=0B302B" alt="Himalayas"></a>
   <a href="https://medium.com/@stephany.alves"><img src="https://img.shields.io/badge/Medium-%40stephany.alves-35D58A?style=for-the-badge&logo=medium&logoColor=white&labelColor=0B302B" alt="Medium"></a>
   <a href="https://peerlist.io/stephanyalves"><img src="https://img.shields.io/badge/Peerlist-stephanyalves-35D58A?style=for-the-badge&logo=peerlist&logoColor=white&labelColor=0B302B" alt="Peerlist"></a>
+  <a href="https://dev.to/stephanyalves"><img src="https://img.shields.io/badge/DEV-stephanyalves-35D58A?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=0B302B" alt="DEV Community"></a>
   <img src="https://img.shields.io/badge/Location-Belo_Horizonte,_BR-35D58A?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0B302B" alt="Belo Horizonte, Brazil">
   <img src="https://img.shields.io/github/followers/stephanyalves-eng?label=Followers&style=for-the-badge&logo=github&color=35D58A&labelColor=0B302B" alt="GitHub followers">
   <img src="https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fkomarev.com%2Fghpvc%2F%3Fusername%3Dstephanyalves-eng&query=%28%2F%2F%2A%5Blocal-name%28%29%3D%27text%27%5D%29%5Blast%28%29%5D&label=Profile%20views&style=for-the-badge&color=35D58A&labelColor=0B302B&cacheSeconds=300" alt="Profile views">
@@ -208,7 +209,7 @@ Every project starts from a business question, organizes the data that answers i
 
 ### 08 · 📬 Contact
 
-Belo Horizonte, Brazil · [LinkedIn](https://www.linkedin.com/in/stephany-alves) · [Himalayas](https://himalayas.app/@stephanyalves) · [Medium](https://medium.com/@stephany.alves) · [Peerlist](https://peerlist.io/stephanyalves)
+Belo Horizonte, Brazil · [LinkedIn](https://www.linkedin.com/in/stephany-alves) · [Himalayas](https://himalayas.app/@stephanyalves) · [Medium](https://medium.com/@stephany.alves) · [Peerlist](https://peerlist.io/stephanyalves) · [DEV](https://dev.to/stephanyalves)
 
 <sub>All public projects use synthetic or public data. No confidential company information.</sub>
 
