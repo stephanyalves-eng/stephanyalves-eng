@@ -15,7 +15,7 @@
   <a href="https://dev.to/stephanyalves"><img src="https://img.shields.io/badge/DEV-stephanyalves-35D58A?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=0B302B" alt="DEV Community"></a>
   <a href="https://www.kaggle.com/stephanyalveseng"><img src="https://img.shields.io/badge/Kaggle-stephanyalveseng-35D58A?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=0B302B" alt="Kaggle"></a>
   <img src="https://img.shields.io/badge/Location-Belo_Horizonte,_BR-35D58A?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0B302B" alt="Belo Horizonte, Brazil">
-  <img src="https://img.shields.io/github/followers/stephanyalves-eng?label=Followers&style=for-the-badge&logo=github&color=35D58A&labelColor=0B302B" alt="GitHub followers">
+  <a href="https://github.com/stephanyalves-eng"><img src="https://img.shields.io/github/followers/stephanyalves-eng?label=Follow&style=for-the-badge&logo=github&color=35D58A&labelColor=0B302B" alt="Follow on GitHub" title="Follow on GitHub"></a>
   <img src="https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fkomarev.com%2Fghpvc%2F%3Fusername%3Dstephanyalves-eng&query=%28%2F%2F%2A%5Blocal-name%28%29%3D%27text%27%5D%29%5Blast%28%29%5D&label=Profile%20views&style=for-the-badge&color=35D58A&labelColor=0B302B&cacheSeconds=300" alt="Profile views">
   <!-- The counter only counts requests made through GitHub's image proxy, so this 1px copy is what records each visit; the badge above only displays the number. -->
   <img src="https://komarev.com/ghpvc/?username=stephanyalves-eng" width="1" height="1" alt="">
@@ -113,7 +113,19 @@
 
 <img src="assets/divider.svg" alt="" width="100%" />
 
-### 04 · ⚙️ How I work
+### 04 · ✍️ Latest writing
+
+<!-- The list below is refreshed daily from the Medium feed by .github/workflows/latest-writing.yml -->
+<!-- BLOG-POST-LIST:START -->
+- [The Cheapest Quote Was the Most Expensive One](https://medium.com/@stephany.alves/the-cheapest-quote-was-the-most-expensive-one-d92bfcbec030) · <sub>Nov 9, 2026</sub>
+- [Savings at 104% of target. Net of price increases, 61%.](https://medium.com/@stephany.alves/savings-at-104-of-target-net-of-price-increases-61-953a6827a392) · <sub>Nov 3, 2026</sub>
+<!-- BLOG-POST-LIST:END -->
+
+<sub>More on [Medium](https://medium.com/@stephany.alves).</sub>
+
+<img src="assets/divider.svg" alt="" width="100%" />
+
+### 05 · ⚙️ How I work
 
 <img src="assets/how-i-work.svg" alt="Signal → Structure → Decision → Impact" width="100%" />
 
@@ -123,7 +135,7 @@ Every project starts from a business question, organizes the data that answers i
 
 <img src="assets/divider.svg" alt="" width="100%" />
 
-### 05 · 🎯 Capabilities
+### 06 · 🎯 Capabilities
 
 | Area | What I do |
 |---|---|
@@ -135,7 +147,7 @@ Every project starts from a business question, organizes the data that answers i
 
 <img src="assets/divider.svg" alt="" width="100%" />
 
-### 06 · 🧰 Toolkit
+### 07 · 🧰 Toolkit
 
 <div align="center">
 
@@ -206,7 +218,7 @@ Every project starts from a business question, organizes the data that answers i
 
 <img src="assets/divider.svg" alt="" width="100%" />
 
-### 07 · 🎓 Background
+### 08 · 🎓 Background
 
 - Procurement analyst in aerospace direct materials (propulsion and avionics) until 2026, managing **200+ suppliers**.
 - **Six-figure (USD) savings** on strategic items without purchase history, validated by Finance, partly by adding new sources to single-source parts.
@@ -215,7 +227,7 @@ Every project starts from a business question, organizes the data that answers i
 
 <img src="assets/divider.svg" alt="" width="100%" />
 
-### 08 · 📬 Contact
+### 09 · 📬 Contact
 
 Belo Horizonte, Brazil · [LinkedIn](https://www.linkedin.com/in/stephany-alves) · [Himalayas](https://himalayas.app/@stephanyalves) · [Medium](https://medium.com/@stephany.alves) · [Peerlist](https://peerlist.io/stephanyalves) · [DEV](https://dev.to/stephanyalves) · [Kaggle](https://www.kaggle.com/stephanyalveseng)
 

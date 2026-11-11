@@ -1,0 +1,26 @@
+name: Latest writing
+
+# Refreshes the "Latest writing" list in README.md from the Medium feed.
+# Add the DEV feed (https://dev.to/feed/stephanyalves) to feed_list once the first DEV post is out;
+# until then that feed returns 404 and would fail the run.
+
+on:
+  schedule:
+    - cron: "17 9 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://medium.com/feed/@stephany.alves"
+          max_post_count: 4
+          template: "$newline- [$title]($url) · <sub>$date</sub>"
+          date_format: "mmm d, yyyy"
+          commit_message: "Update latest writing from Medium"
