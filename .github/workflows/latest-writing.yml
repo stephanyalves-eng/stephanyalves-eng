@@ -1,8 +1,6 @@
 name: Latest writing
 
-# Refreshes the "Latest writing" list in README.md from the Medium feed.
-# Add the DEV feed (https://dev.to/feed/stephanyalves) to feed_list once the first DEV post is out;
-# until then that feed returns 404 and would fail the run.
+# Refreshes the "Latest writing" list in README.md from the Medium and DEV feeds, newest first.
 
 on:
   schedule:
@@ -19,8 +17,8 @@ jobs:
       - uses: actions/checkout@v4
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://medium.com/feed/@stephany.alves"
+          feed_list: "https://medium.com/feed/@stephany.alves,https://dev.to/feed/stephanyalves"
           max_post_count: 4
           template: "$newline- [$title]($url) · <sub>$date</sub>"
           date_format: "mmm d, yyyy"
-          commit_message: "Update latest writing from Medium"
+          commit_message: "Update latest writing from Medium and DEV"
