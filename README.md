@@ -64,18 +64,26 @@
 
 <div align="center">
   <a href="https://aeroquote-compass.lovable.app">
-    <img src="assets/aeroquote.png" alt="AeroQuote Compass screenshot" width="85%" />
+    <img src="assets/aeroquote-banner.png" alt="AeroQuote Compass: from 20 supplier quotations to a checked and released purchase order. AI extraction with buyer validation, annual landed cost and explained recommendation, PO Check, revision control and audit trail." width="100%" />
   </a>
   <p>
-    Supplier quotation intelligence for strategic sourcing: AI extraction with buyer review, total annual landed cost,<br/>
-    configurable supplier scoring, risk and anomaly detection, justified recommendation, PDF/Excel/CSV export. <b>78 automated tests.</b>
+    Aerospace procurement workspace that takes supplier quotations <b>from RFQ to a released purchase order</b>.<br/>
+    AI extracts quotes into a fixed schema, the buyer confirms every critical field, and deterministic code computes<br/>
+    annual landed cost, eligibility and an explained recommendation. The PO is then checked against the approved decision,<br/>
+    revision-gated and released, with an exportable audit trail (PDF, Excel, CSV).
   </p>
   <p>
-    <code>Supplier quotes</code> → <code>AI extraction</code> → <code>Buyer review</code> → <code>Landed cost</code> → <code>Scoring & risk</code> → <code>Justified recommendation</code>
+    <code>RFQ</code> → <code>AI extraction</code> → <code>Buyer validation</code> → <code>Landed cost & eligibility</code> → <code>Explained recommendation</code> → <code>PO Check</code> → <code>Release</code>
   </p>
   <p>
-    <b>Stack:</b> <code>TypeScript</code> <code>Lovable</code> <code>AI extraction</code> <code>Automated tests</code>
+    <b>Stack:</b> <code>TypeScript</code> <code>React 19</code> <code>TanStack Start</code> <code>Tailwind CSS</code> <code>Supabase</code> <code>Vitest</code> <code>Playwright</code> <code>Lovable</code>
   </p>
+  <details>
+    <summary><b>▶ Watch it work</b> <sub>20 quotations from buyer validation to an explained recommendation (19 s)</sub></summary>
+    <br/>
+    <img src="assets/aeroquote-demo.gif" alt="AeroQuote Compass demo: 20 synthetic supplier quotations validated by the buyer and compared until the explained supplier recommendation" width="100%" />
+  </details>
+  <br/>
   <a href="https://aeroquote-compass.lovable.app"><img src="https://img.shields.io/badge/▶_Live_app-35D58A?style=for-the-badge&labelColor=0B302B" alt="Live app"></a>
   <a href="https://github.com/stephanyalves-eng/aeroquote-compass"><img src="https://img.shields.io/badge/Code-0B302B?style=for-the-badge&logo=github&logoColor=35D58A" alt="Code"></a>
 </div>
