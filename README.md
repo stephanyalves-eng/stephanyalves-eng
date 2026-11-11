@@ -117,9 +117,8 @@
 
 <!-- The list below is refreshed daily from the Medium feed by .github/workflows/latest-writing.yml -->
 <!-- BLOG-POST-LIST:START -->
-- [The Cheapest Quote Was the Most Expensive One](https://medium.com/@stephany.alves/the-cheapest-quote-was-the-most-expensive-one-d92bfcbec030) · <sub>Nov 9, 2026</sub>
-- [Savings at 104% of target. Net of price increases, 61%.](https://medium.com/@stephany.alves/savings-at-104-of-target-net-of-price-increases-61-953a6827a392) · <sub>Nov 3, 2026</sub>
-<!-- BLOG-POST-LIST:END -->
+- [The Cheapest Quote Was the Most Expensive One](https://medium.com/@stephany.alves/the-cheapest-quote-was-the-most-expensive-one-d92bfcbec030?source=rss-47b95d0f4e54------2) · <sub>Nov 9, 2026</sub>
+- [Savings at 104% of target. Net of price increases, 61%.](https://medium.com/@stephany.alves/savings-at-104-of-target-net-of-price-increases-61-953a6827a392?source=rss-47b95d0f4e54------2) · <sub>Nov 3, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>More on [Medium](https://medium.com/@stephany.alves).</sub>
 
