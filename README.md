@@ -117,6 +117,7 @@
 
 <!-- The list below is refreshed daily from the Medium and DEV feeds by .github/workflows/latest-writing.yml -->
 <!-- BLOG-POST-LIST:START -->
+- [I automated the monthly market brief I always wanted as an aerospace buyer.](https://dev.to/stephanyalves/i-automated-the-monthly-market-brief-i-always-wanted-as-an-aerospace-buyer-28hh) · <sub>Nov 11, 2026</sub>
 - [The Cheapest Quote Was the Most Expensive One](https://medium.com/@stephany.alves/the-cheapest-quote-was-the-most-expensive-one-d92bfcbec030?source=rss-47b95d0f4e54------2) · <sub>Nov 9, 2026</sub>
 - [Savings at 104% of target. Net of price increases, 61%.](https://medium.com/@stephany.alves/savings-at-104-of-target-net-of-price-increases-61-953a6827a392?source=rss-47b95d0f4e54------2) · <sub>Nov 3, 2026</sub><!-- BLOG-POST-LIST:END -->
 
