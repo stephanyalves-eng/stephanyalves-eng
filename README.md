@@ -55,7 +55,7 @@
 - 📚 **Learning:** SQL, Python, Tableau and Databricks, through the portfolio projects below
 - 💬 **Ask me about:** should-cost, strategic sourcing, procurement, supplier quality, maintenance engineering, vendor management and procurement analytics
 - 🤝 **Open to:** Senior Procurement Analyst · Procurement Analyst · Strategic Sourcing Analyst · Supplier Quality Engineer · Data Analyst
-- 📍 **Availability:** Belo Horizonte, Brazil (UTC−3) · remote, hybrid or on-site · available immediately
+- 📍 **Availability:** Belo Horizonte, Brazil (UTC−3) · remote, hybrid or on-site · available immediately · [📅 Book a 30-min call](https://calendar.app.google/y34oLpDbrQeJnDhh9)
 - 🗣️ **Languages:** Brazilian Portuguese (native) · English (fluent) · Spanish (fluent)
 - ⚡ **Fun fact:** I can't look at a cable anymore without estimating its should-cost, copper price included.
 - 📖 **Outside work:** reading
@@ -215,6 +215,12 @@ Every project starts from a business question, organizes the data that answers i
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=stephanyalves-eng&hide_border=true&background=0B302B&ring=35D58A&fire=35D58A&currStreakNum=D2DED7&sideNums=D2DED7&currStreakLabel=35D58A&sideLabels=D2DED7&dates=8FA99D&stroke=1E5246&border_radius=8" width="70%" alt="Commit streak" />
 </div>
 
+**⚡ Recent activity**
+
+<!-- The list below is refreshed daily by .github/workflows/recent-activity.yml -->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 </details>
 
 <img src="assets/divider.svg" alt="" width="100%" />
@@ -231,6 +237,10 @@ Every project starts from a business question, organizes the data that answers i
 ### 09 · 📬 Contact
 
 Belo Horizonte, Brazil · [LinkedIn](https://www.linkedin.com/in/stephany-alves) · [Himalayas](https://himalayas.app/@stephanyalves) · [Medium](https://medium.com/@stephany.alves) · [Peerlist](https://peerlist.io/stephanyalves) · [DEV](https://dev.to/stephanyalves) · [Kaggle](https://www.kaggle.com/stephanyalveseng) · [Hugging Face](https://huggingface.co/stephany-alves)
+
+<p align="center">
+  <a href="https://calendar.app.google/y34oLpDbrQeJnDhh9"><img src="https://img.shields.io/badge/Book_a_30--min_call-Google_Meet-35D58A?style=for-the-badge&logo=googlecalendar&logoColor=white&labelColor=0B302B" alt="Book a 30-min call on Google Meet"></a>
+</p>
 
 <sub>All public projects use synthetic or public data. No confidential company information.</sub>
 

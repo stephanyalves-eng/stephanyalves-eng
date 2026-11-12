@@ -1,0 +1,25 @@
+name: Recent activity
+
+# Refreshes the "Recent activity" list in README.md with the latest public
+# GitHub events (issues, pull requests, comments, releases), newest first.
+
+on:
+  schedule:
+    - cron: "41 9 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: jamesgeorge007/github-activity-readme@v0.5.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          GH_USERNAME: stephanyalves-eng
+          MAX_LINES: 5
+          COMMIT_MSG: "Update recent activity"
