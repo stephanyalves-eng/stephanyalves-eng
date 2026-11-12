@@ -1,7 +1,8 @@
 name: Recent activity
 
 # Refreshes the "Recent activity" list in README.md with the latest public
-# GitHub events (issues, pull requests, comments, releases), newest first.
+# pull requests, comments and releases, newest first. Issue events are left out
+# because every label added to an issue shows up as a separate line.
 
 on:
   schedule:
@@ -22,4 +23,5 @@ jobs:
         with:
           GH_USERNAME: stephanyalves-eng
           MAX_LINES: 5
+          FILTER_EVENTS: "PullRequestEvent,IssueCommentEvent,ReleaseEvent"
           COMMIT_MSG: "Update recent activity"
