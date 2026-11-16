@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="200" viewBox="0 0 495 200" role="img" aria-labelledby="t d">
+<title id="t">Most Used Languages</title>
+<desc id="d">HTML 55.8%, TypeScript 24.2%, Jupyter Notebook 11.2%, Python 8.5%, CSS 0.3%, Other 0.1%</desc>
+<style>text{font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif}.title{font-size:20px;font-weight:600;fill:#35D58A}.lang{font-size:13px;fill:#D2DED7}.pct{font-size:13px;fill:#8FA99D}</style>
+<rect x="0.5" y="0.5" width="494" height="199" rx="8" fill="#0B302B" stroke="#1E5246"/>
+<text class="title" x="25" y="38">Most Used Languages</text>
+<clipPath id="bar"><rect x="25" y="62" width="445" height="10" rx="5"/></clipPath>
+<rect x="25" y="62" width="445" height="10" rx="5" fill="#123D35"/>
+<g clip-path="url(#bar)">
+<rect x="25.00" y="62" width="247.49" height="10" fill="#35D58A"/>
+<rect x="273.49" y="62" width="106.57" height="10" fill="#F2C14E"/>
+<rect x="381.05" y="62" width="48.68" height="10" fill="#5AB1EF"/>
+<rect x="430.73" y="62" width="36.64" height="10" fill="#E07A5F"/>
+<rect x="468.37" y="62" width="0.50" height="10" fill="#B48EF0"/>
+<rect x="469.50" y="62" width="0.50" height="10" fill="#5E7F73"/>
+</g>
+<circle cx="31" cy="96" r="6" fill="#35D58A"/>
+<text class="lang" x="45" y="100">HTML</text>
+<text class="pct" x="240" y="100" text-anchor="end">55.8%</text>
+<circle cx="266" cy="96" r="6" fill="#F2C14E"/>
+<text class="lang" x="280" y="100">TypeScript</text>
+<text class="pct" x="475" y="100" text-anchor="end">24.2%</text>
+<circle cx="31" cy="126" r="6" fill="#5AB1EF"/>
+<text class="lang" x="45" y="130">Jupyter Notebook</text>
+<text class="pct" x="240" y="130" text-anchor="end">11.2%</text>
+<circle cx="266" cy="126" r="6" fill="#E07A5F"/>
+<text class="lang" x="280" y="130">Python</text>
+<text class="pct" x="475" y="130" text-anchor="end">8.5%</text>
+<circle cx="31" cy="156" r="6" fill="#B48EF0"/>
+<text class="lang" x="45" y="160">CSS</text>
+<text class="pct" x="240" y="160" text-anchor="end">0.3%</text>
+<circle cx="266" cy="156" r="6" fill="#5E7F73"/>
+<text class="lang" x="280" y="160">Other</text>
+<text class="pct" x="475" y="160" text-anchor="end">0.1%</text>
+</svg>

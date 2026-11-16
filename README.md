@@ -210,7 +210,8 @@ Every project starts from a business question, organizes the data that answers i
 
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=stephanyalves-eng&show_icons=true&count_private=true&hide_border=true&bg_color=0B302B&title_color=35D58A&text_color=D2DED7&icon_color=35D58A&ring_color=35D58A&border_radius=8" width="48%" alt="GitHub stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=stephanyalves-eng&layout=compact&hide_border=true&bg_color=0B302B&title_color=35D58A&text_color=D2DED7&border_radius=8" width="48%" alt="Top languages" />
+  <!-- Rebuilt daily by .github/workflows/languages-card.yml with colors from the profile palette -->
+  <img src="assets/languages.svg" width="48%" alt="Most used languages across public repositories" />
   <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=stephanyalves-eng&hide_border=true&background=0B302B&ring=35D58A&fire=35D58A&currStreakNum=D2DED7&sideNums=D2DED7&currStreakLabel=35D58A&sideLabels=D2DED7&dates=8FA99D&stroke=1E5246&border_radius=8" width="70%" alt="Commit streak" />
 </div>
