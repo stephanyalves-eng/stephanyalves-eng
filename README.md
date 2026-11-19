@@ -223,8 +223,11 @@ Every project starts from a business question, organizes the data that answers i
 
 <!-- The list below is refreshed daily by .github/workflows/recent-activity.yml -->
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/stephanyalves-eng/p1-wire-harness-should-cost/pull/15) in [stephanyalves-eng/p1-wire-harness-should-cost](https://github.com/stephanyalves-eng/p1-wire-harness-should-cost)
-2. 💪 Opened PR [#15](https://github.com/stephanyalves-eng/p1-wire-harness-should-cost/pull/15) in [stephanyalves-eng/p1-wire-harness-should-cost](https://github.com/stephanyalves-eng/p1-wire-harness-should-cost)
+1. 🔨 [procurement-market-briefs](https://github.com/stephanyalves-eng/procurement-market-briefs): [Restyle the one-page briefs in Stephany Alves Design System 2.0](https://github.com/stephanyalves-eng/procurement-market-briefs/commit/b4ed69d0157e42b6b03d3d247ad3298e88a4d6c3) · <sub>Nov 19, 2026</sub>
+2. 🔨 [brazil-resources-intelligence](https://github.com/stephanyalves-eng/brazil-resources-intelligence): [Docs: rename to Brazil Resources Intelligence; clone-based paths](https://github.com/stephanyalves-eng/brazil-resources-intelligence/commit/40b9a265a849530a98922f8f13a0cb117b96bd92) · <sub>Nov 19, 2026</sub>
+3. 🔨 [procurement-analytics-olist](https://github.com/stephanyalves-eng/procurement-analytics-olist): [Link the published Kaggle notebook](https://github.com/stephanyalves-eng/procurement-analytics-olist/commit/544136919c5f79bd220807f8541089995e788d45) · <sub>Nov 16, 2026</sub>
+4. 🔨 [aeroquote-compass](https://github.com/stephanyalves-eng/aeroquote-compass): [Add short demo cuts in 16:9, 4:5 and 1:1](https://github.com/stephanyalves-eng/aeroquote-compass/commit/cb72d4856f5a4b7dedfe46b57cbb6ae2f5b06729) · <sub>Nov 11, 2026</sub>
+5. 🔨 [himalayas-profile](https://github.com/stephanyalves-eng/himalayas-profile): [Add files via upload](https://github.com/stephanyalves-eng/himalayas-profile/commit/0a8a0a1bdb18bbf19dafcd6afc4e91d9d4be99e1) · <sub>Nov 9, 2026</sub>
 <!--END_SECTION:activity-->
 
 </details>
