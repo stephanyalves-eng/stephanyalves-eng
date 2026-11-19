@@ -143,10 +143,9 @@ Every project starts from a business question, organizes the data that answers i
 
 | Area | What I do |
 |---|---|
-| **Strategic sourcing** | RFQs, should-cost, adding qualified sources to single-source parts, negotiation backed by evidence |
+| **Strategic sourcing** | RFQs, should-cost, adding qualified sources to single-source parts, negotiation backed by evidence, supplier due diligence |
 | **Supplier quality** | Supplier qualification, PPAP, 8D, SPC and Cpk, PFMEA |
 | **Procurement analytics** | Spend, savings, on-time delivery and supplier scorecards in Power BI, SQL and Python |
-| **Compliance and trade** | Incoterms, NCM classification, export control (EAR/ECCN), supplier due diligence |
 | **Continuous improvement** | Lean, Kaizen, A3, Ishikawa, 5 Whys |
 
 <img src="assets/divider.svg" alt="" width="100%" />
@@ -160,8 +159,6 @@ Every project starts from a business question, organizes the data that answers i
 ![SAP MM](https://img.shields.io/badge/SAP_MM-06402B?style=flat-square&logo=sap&logoColor=C97A3A)
 ![SAP QM](https://img.shields.io/badge/SAP_QM-06402B?style=flat-square&logo=sap&logoColor=C97A3A)
 ![SAP Ariba](https://img.shields.io/badge/SAP_Ariba-06402B?style=flat-square&logo=sap&logoColor=C97A3A)
-![Incoterms](https://img.shields.io/badge/Incoterms-06402B?style=flat-square)
-![NCM and export control](https://img.shields.io/badge/NCM_·_Export_control_(EAR%2FECCN)-06402B?style=flat-square)
 ![Supplier qualification](https://img.shields.io/badge/Supplier_qualification-06402B?style=flat-square)
 ![Lextegrity](https://img.shields.io/badge/Lextegrity-06402B?style=flat-square)
 
@@ -191,7 +188,6 @@ Every project starts from a business question, organizes the data that answers i
 ![Gemini](https://img.shields.io/badge/Gemini-06402B?style=flat-square&logo=googlegemini&logoColor=C97A3A)
 ![Gemini Notebook](https://img.shields.io/badge/Gemini_Notebook-06402B?style=flat-square&logo=googlegemini&logoColor=C97A3A)
 ![Google AI Studio](https://img.shields.io/badge/Google_AI_Studio-06402B?style=flat-square&logo=google&logoColor=C97A3A)
-![n8n](https://img.shields.io/badge/n8n-06402B?style=flat-square&logo=n8n&logoColor=C97A3A)
 ![Figma](https://img.shields.io/badge/Figma-06402B?style=flat-square&logo=figma&logoColor=C97A3A)
 ![Notion](https://img.shields.io/badge/Notion-06402B?style=flat-square&logo=notion&logoColor=C97A3A)
 ![Jira](https://img.shields.io/badge/Jira-06402B?style=flat-square&logo=jira&logoColor=C97A3A)
