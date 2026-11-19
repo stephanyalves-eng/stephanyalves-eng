@@ -1,25 +1,25 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="495" height="200" viewBox="0 0 495 200" role="img" aria-labelledby="t d">
 <title id="t">Most Used Languages</title>
-<desc id="d">TypeScript 47.9%, Python 27.7%, Jupyter Notebook 23.5%, CSS 0.5%, PLpgSQL 0.2%, Other 0.3%</desc>
+<desc id="d">TypeScript 47.8%, Python 27.8%, Jupyter Notebook 23.5%, CSS 0.5%, PLpgSQL 0.2%, Other 0.3%</desc>
 <style>text{font-family:'IBM Plex Sans','Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif}.title{font-family:'Newsreader',Georgia,'Times New Roman',serif;font-size:22px;font-weight:400;fill:#06402B}.lang{font-size:13px;fill:#2B2F2E}.pct{font-size:13px;fill:#4F615A}</style>
 <rect x="0.5" y="0.5" width="494" height="199" rx="8" fill="#F6F3E8" stroke="#E7E2D9"/>
 <text class="title" x="25" y="38">Most Used Languages</text>
 <clipPath id="bar"><rect x="25" y="62" width="445" height="10" rx="5"/></clipPath>
 <rect x="25" y="62" width="445" height="10" rx="5" fill="#E7E2D9"/>
 <g clip-path="url(#bar)">
-<rect x="25.00" y="62" width="212.07" height="10" fill="#06402B"/>
-<rect x="238.07" y="62" width="122.24" height="10" fill="#C97A3A"/>
-<rect x="361.31" y="62" width="103.50" height="10" fill="#376C8C"/>
-<rect x="465.81" y="62" width="1.23" height="10" fill="#8FAF9E"/>
+<rect x="25.00" y="62" width="211.79" height="10" fill="#06402B"/>
+<rect x="237.79" y="62" width="122.66" height="10" fill="#C97A3A"/>
+<rect x="361.45" y="62" width="103.37" height="10" fill="#376C8C"/>
+<rect x="465.82" y="62" width="1.23" height="10" fill="#8FAF9E"/>
 <rect x="468.05" y="62" width="0.50" height="10" fill="#705477"/>
 <rect x="468.76" y="62" width="0.50" height="10" fill="#A6B0A9"/>
 </g>
 <circle cx="31" cy="96" r="6" fill="#06402B"/>
 <text class="lang" x="45" y="100">TypeScript</text>
-<text class="pct" x="240" y="100" text-anchor="end">47.9%</text>
+<text class="pct" x="240" y="100" text-anchor="end">47.8%</text>
 <circle cx="266" cy="96" r="6" fill="#C97A3A"/>
 <text class="lang" x="280" y="100">Python</text>
-<text class="pct" x="475" y="100" text-anchor="end">27.7%</text>
+<text class="pct" x="475" y="100" text-anchor="end">27.8%</text>
 <circle cx="31" cy="126" r="6" fill="#376C8C"/>
 <text class="lang" x="45" y="130">Jupyter Notebook</text>
 <text class="pct" x="240" y="130" text-anchor="end">23.5%</text>
