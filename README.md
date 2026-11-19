@@ -1,4 +1,4 @@
-<img src="assets/banner.svg" alt="Stephany Alves · Complexity, made clear. · SIGNAL & STRUCTURE" width="100%">
+<img src="assets/banner.png" alt="Stephany Alves · Industrial engineering, procurement, operations and data · Complexity, made clear. · SIGNAL & STRUCTURE" width="100%">
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=35D58A&center=true&vCenter=true&width=600&lines=Procurement+%C3%97+Engineering+%C3%97+Data;Signal+%E2%86%92+Structure+%E2%86%92+Decision+%E2%86%92+Impact;Evidence-based+sourcing+decisions" alt="Procurement × Engineering × Data · Signal → Structure → Decision → Impact · Evidence-based sourcing decisions" />
