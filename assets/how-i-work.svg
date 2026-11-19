@@ -3,42 +3,42 @@
   <desc id="d">Signal, a business question; Structure, organized data; Decision, the choice it supports; Impact, what changed.</desc>
   <defs>
     <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
-      <path d="M0 0 L10 5 L0 10 z" fill="#35D58A"/>
+      <path d="M0 0 L10 5 L0 10 z" fill="#C97A3A"/>
     </marker>
     <style>
-      .step { fill: #123D35; stroke: #1E5246; stroke-width: 1.5; }
-      .num { font: 600 12px 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; fill: #8FA99D; letter-spacing: 1.5px; }
-      .name { font: 700 20px 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; fill: #35D58A; }
-      .note { font: 400 13px 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; fill: #D2DED7; }
-      .link { stroke: #35D58A; stroke-width: 2; fill: none; }
+      .step { fill: #FBF9F4; stroke: #E7E2D9; stroke-width: 1.5; }
+      .num { font: 500 12px 'IBM Plex Mono', Consolas, 'DejaVu Sans Mono', monospace; fill: #8A4A1C; letter-spacing: 1.5px; }
+      .name { font: 400 24px 'Newsreader', Georgia, 'Times New Roman', serif; fill: #06402B; }
+      .note { font: 400 13px 'IBM Plex Sans', 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; fill: #4F615A; }
+      .link { stroke: #C97A3A; stroke-width: 2; fill: none; }
     </style>
   </defs>
 
-  <rect width="900" height="170" rx="14" fill="#0B302B"/>
+  <rect x="0.75" y="0.75" width="898.5" height="168.5" rx="8" fill="#F6F3E8" stroke="#E7E2D9" stroke-width="1.5"/>
 
   <g transform="translate(30 35)">
-    <rect class="step" width="180" height="100" rx="10"/>
+    <rect class="step" width="180" height="100" rx="8"/>
     <text class="num" x="18" y="28">01</text>
-    <text class="name" x="18" y="58">Signal</text>
-    <text class="note" x="18" y="82">a business question</text>
+    <text class="name" x="18" y="60">Signal</text>
+    <text class="note" x="18" y="84">a business question</text>
   </g>
   <g transform="translate(250 35)">
-    <rect class="step" width="180" height="100" rx="10"/>
+    <rect class="step" width="180" height="100" rx="8"/>
     <text class="num" x="18" y="28">02</text>
-    <text class="name" x="18" y="58">Structure</text>
-    <text class="note" x="18" y="82">data that answers it</text>
+    <text class="name" x="18" y="60">Structure</text>
+    <text class="note" x="18" y="84">data that answers it</text>
   </g>
   <g transform="translate(470 35)">
-    <rect class="step" width="180" height="100" rx="10"/>
+    <rect class="step" width="180" height="100" rx="8"/>
     <text class="num" x="18" y="28">03</text>
-    <text class="name" x="18" y="58">Decision</text>
-    <text class="note" x="18" y="82">the choice it supports</text>
+    <text class="name" x="18" y="60">Decision</text>
+    <text class="note" x="18" y="84">the choice it supports</text>
   </g>
   <g transform="translate(690 35)">
-    <rect class="step" width="180" height="100" rx="10" stroke="#35D58A"/>
-    <text class="num" x="18" y="28">04</text>
-    <text class="name" x="18" y="58">Impact</text>
-    <text class="note" x="18" y="82">what changed</text>
+    <rect class="step" width="180" height="100" rx="8" style="fill:#06402B;stroke:#06402B"/>
+    <text class="num" x="18" y="28" style="fill:#C5D3CB">04</text>
+    <text class="name" x="18" y="60" style="fill:#FBF9F4">Impact</text>
+    <text class="note" x="18" y="84" style="fill:#C5D3CB">what changed</text>
   </g>
 
   <line class="link" x1="212" y1="85" x2="246" y2="85" marker-end="url(#arrow)"/>

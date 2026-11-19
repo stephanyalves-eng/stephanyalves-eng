@@ -15,11 +15,11 @@ from xml.sax.saxutils import escape
 
 MAX_LANGS = 6
 
-# Ranked palette, chosen to stay distinct from each other on the dark green card.
-PALETTE = ["#35D58A", "#F2C14E", "#5AB1EF", "#E07A5F", "#B48EF0", "#F5F4EC"]
-OTHER_COLOR = "#5E7F73"
+# Ranked palette: the chart categories of Stephany Alves Design System 2.0, ordered so neighbours contrast on the light card.
+PALETTE = ["#06402B", "#C97A3A", "#376C8C", "#8FAF9E", "#705477", "#8A4A1C"]
+OTHER_COLOR = "#A6B0A9"
 
-BG, BORDER, TITLE, TEXT, MUTED, TRACK = "#0B302B", "#1E5246", "#35D58A", "#D2DED7", "#8FA99D", "#123D35"
+BG, BORDER, TITLE, TEXT, MUTED, TRACK = "#F6F3E8", "#E7E2D9", "#06402B", "#2B2F2E", "#4F615A", "#E7E2D9"
 
 
 def api(path):
@@ -60,8 +60,8 @@ def render(shares):
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" viewBox="0 0 {width} {height}" role="img" aria-labelledby="t d">',
         '<title id="t">Most Used Languages</title>',
         '<desc id="d">' + escape(", ".join(f"{lang} {share:.1%}" for lang, share in shares)) + "</desc>",
-        "<style>text{font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif}"
-        f".title{{font-size:20px;font-weight:600;fill:{TITLE}}}"
+        "<style>text{font-family:'IBM Plex Sans','Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif}"
+        f".title{{font-family:'Newsreader',Georgia,'Times New Roman',serif;font-size:22px;font-weight:400;fill:{TITLE}}}"
         f".lang{{font-size:13px;fill:{TEXT}}}.pct{{font-size:13px;fill:{MUTED}}}</style>",
         f'<rect x="0.5" y="0.5" width="{width - 1}" height="{height - 1}" rx="8" fill="{BG}" stroke="{BORDER}"/>',
         f'<text class="title" x="{pad}" y="38">Most Used Languages</text>',
