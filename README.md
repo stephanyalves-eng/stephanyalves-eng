@@ -271,11 +271,11 @@ Every project starts from a business question, organizes the data that answers i
 
 <!-- The list below is refreshed daily by .github/workflows/recent-activity.yml -->
 <!--START_SECTION:activity-->
-1. 🔨 [vendor-renewal-cockpit](https://github.com/stephanyalves-eng/vendor-renewal-cockpit): [Add page views, owner-only write rules and Lovable build prompts](https://github.com/stephanyalves-eng/vendor-renewal-cockpit/commit/e29bcad4ac35c208a24bb47f8a7005370e4a59d9) · <sub>Nov 19, 2026</sub>
-2. 🔨 [procurement-market-briefs](https://github.com/stephanyalves-eng/procurement-market-briefs): [Restyle the one-page briefs in Stephany Alves Design System 2.0](https://github.com/stephanyalves-eng/procurement-market-briefs/commit/b4ed69d0157e42b6b03d3d247ad3298e88a4d6c3) · <sub>Nov 19, 2026</sub>
-3. 🔨 [brazil-resources-intelligence](https://github.com/stephanyalves-eng/brazil-resources-intelligence): [Docs: rename to Brazil Resources Intelligence; clone-based paths](https://github.com/stephanyalves-eng/brazil-resources-intelligence/commit/40b9a265a849530a98922f8f13a0cb117b96bd92) · <sub>Nov 19, 2026</sub>
-4. 🔨 [procurement-analytics-olist](https://github.com/stephanyalves-eng/procurement-analytics-olist): [Link the published Kaggle notebook](https://github.com/stephanyalves-eng/procurement-analytics-olist/commit/544136919c5f79bd220807f8541089995e788d45) · <sub>Nov 16, 2026</sub>
-5. 🔨 [aeroquote-compass](https://github.com/stephanyalves-eng/aeroquote-compass): [Add short demo cuts in 16:9, 4:5 and 1:1](https://github.com/stephanyalves-eng/aeroquote-compass/commit/cb72d4856f5a4b7dedfe46b57cbb6ae2f5b06729) · <sub>Nov 11, 2026</sub>
+1. 🔨 [brazil-resources-intelligence](https://github.com/stephanyalves-eng/brazil-resources-intelligence): [Tableau dashboards: cards and charts follow every click](https://github.com/stephanyalves-eng/brazil-resources-intelligence/commit/90f2110b5d685e7f23f863da81340ec7ca032d7c) · <sub>Nov 21, 2026</sub>
+2. 🔨 [renewal-cockpit](https://github.com/stephanyalves-eng/renewal-cockpit): [Replace README screenshots with GIFs of the app in use](https://github.com/stephanyalves-eng/renewal-cockpit/commit/ddcc30f823c821efd1d9ccaf7c93b1260c538236) · <sub>Nov 21, 2026</sub>
+3. 🔨 [vendor-renewal-cockpit](https://github.com/stephanyalves-eng/vendor-renewal-cockpit): [Replace README screenshots with GIFs of the app in use](https://github.com/stephanyalves-eng/vendor-renewal-cockpit/commit/45787ca1b22a4be107ea7603698c4e406b9c8a6d) · <sub>Nov 21, 2026</sub>
+4. 🔨 [procurement-market-briefs](https://github.com/stephanyalves-eng/procurement-market-briefs): [Restyle the one-page briefs in Stephany Alves Design System 2.0](https://github.com/stephanyalves-eng/procurement-market-briefs/commit/b4ed69d0157e42b6b03d3d247ad3298e88a4d6c3) · <sub>Nov 19, 2026</sub>
+5. 🔨 [procurement-analytics-olist](https://github.com/stephanyalves-eng/procurement-analytics-olist): [Link the published Kaggle notebook](https://github.com/stephanyalves-eng/procurement-analytics-olist/commit/544136919c5f79bd220807f8541089995e788d45) · <sub>Nov 16, 2026</sub>
 <!--END_SECTION:activity-->
 
 </details>
