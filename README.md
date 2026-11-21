@@ -63,7 +63,59 @@
 
 <img src="assets/divider.svg" alt="" width="100%" />
 
-### 02 · 🚀 Featured project: AeroQuote Compass ![Live](https://img.shields.io/badge/●_LIVE-06402B?style=flat-square)
+### 02 · 🧾 Featured project: Vendor Spend & Renewal Cockpit ![Live](https://img.shields.io/badge/●_LIVE-06402B?style=flat-square)
+
+<div align="center">
+  <a href="https://stephanyalves-eng-renewal-cockpit.stephany-alves.workers.dev">
+    <img src="assets/renewal-cockpit/overview-filter.gif" alt="Renewal Cockpit Overview: clicking Cloud switches every KPI to that category" width="100%" />
+  </a>
+  <p>
+    Budget and contract-renewal cockpit for the indirect-procurement team of a fictional fintech (BRL 18.5M third-party spend).<br/>
+    It answers the three questions a procurement lead gets every month: <b>will we land the year on budget</b>,<br/>
+    <b>which contracts need a decision before they auto-renew</b>, and <b>where can we cut or consolidate spend</b>.
+  </p>
+</div>
+
+<table>
+  <tr>
+    <td align="center" width="33%"><h3>+5.5% over budget</h3><sub>and it is volume, not price: cloud usage grows 3.5%/month against 2% planned</sub></td>
+    <td align="center" width="33%"><h3>BRL 1.04M / year</h3><sub>from acting on 15 contracts that renew within 120 days, more than the whole overrun</sub></td>
+    <td align="center" width="33%"><h3>2 urgent decisions</h3><sub>decision deadlines in December; both contracts auto-renew if nobody acts</sub></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="50%"><img src="assets/renewal-cockpit/budget-filter.gif" alt="Budget vs. actual: setting Category to Cloud updates the KPIs and the budget-to-landing waterfall" width="100%" /></td>
+    <td width="50%"><img src="assets/renewal-cockpit/renewals-dealstream.gif" alt="Renewals: opening Dealstream shows the decision deadline and the rule behind the recommendation" width="100%" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Budget vs. actual</b><br/><sub>budget to landing, split into price, volume and unbudgeted spend</sub></td>
+    <td align="center"><b>Renewals</b><br/><sub>decision deadline, recommendation and the rule behind it</sub></td>
+  </tr>
+</table>
+
+<details>
+  <summary><b>▶ AI contract intake</b> <sub>an AI step extracts five renewal terms from a contract PDF, each checked field by field against the contract on file</sub></summary>
+  <br/>
+  <img src="assets/renewal-cockpit/contract-intake.gif" alt="Contract intake: AI-extracted contract terms checked field by field against the contract on file" width="100%" />
+</details>
+
+<div align="center">
+  <p>
+    <code>Synthetic spend and contracts</code> → <code>Python: forecast, variance split, renewal rules (tested)</code> → <code>Supabase views (row level security)</code> → <code>Web app</code> + <code>weekly alert e-mail</code>
+  </p>
+  <p>
+    <b>Stack:</b> <code>Python</code> <code>pandas</code> <code>pytest</code> <code>SQL</code> <code>Supabase</code> <code>TypeScript</code> <code>React</code> <code>TanStack Start</code> <code>Recharts</code> <code>Lovable</code>
+  </p>
+  <a href="https://stephanyalves-eng-renewal-cockpit.stephany-alves.workers.dev"><img src="https://img.shields.io/badge/▶_Live_app-06402B?style=for-the-badge" alt="Live app"></a>
+  <a href="https://github.com/stephanyalves-eng/vendor-renewal-cockpit"><img src="https://img.shields.io/badge/Data_%26_logic-F6F3E8?style=for-the-badge&logo=github&logoColor=06402B" alt="Data and logic repository"></a>
+  <a href="https://github.com/stephanyalves-eng/renewal-cockpit"><img src="https://img.shields.io/badge/Web_app-F6F3E8?style=for-the-badge&logo=github&logoColor=06402B" alt="Web app repository"></a>
+</div>
+
+<img src="assets/divider.svg" alt="" width="100%" />
+
+### 03 · 🚀 Featured project: AeroQuote Compass ![Live](https://img.shields.io/badge/●_LIVE-06402B?style=flat-square)
 
 <div align="center">
   <a href="https://aeroquote-compass.lovable.app">
@@ -93,7 +145,7 @@
 
 <img src="assets/divider.svg" alt="" width="100%" />
 
-### 03 · 🧭 Selected work
+### 04 · 🧭 Selected work
 
 | Project | What it shows | Stack | Status |
 |---|---|---|---|
@@ -117,7 +169,7 @@
 
 <img src="assets/divider.svg" alt="" width="100%" />
 
-### 04 · ✍️ Latest writing
+### 05 · ✍️ Latest writing
 
 <!-- The list below is refreshed daily from the Medium and DEV feeds by .github/workflows/latest-writing.yml -->
 <!-- BLOG-POST-LIST:START -->
@@ -129,7 +181,7 @@
 
 <img src="assets/divider.svg" alt="" width="100%" />
 
-### 05 · ⚙️ How I work
+### 06 · ⚙️ How I work
 
 <img src="assets/how-i-work.svg" alt="Signal → Structure → Decision → Impact" width="100%" />
 
@@ -139,7 +191,7 @@ Every project starts from a business question, organizes the data that answers i
 
 <img src="assets/divider.svg" alt="" width="100%" />
 
-### 06 · 🎯 Capabilities
+### 07 · 🎯 Capabilities
 
 | Area | What I do |
 |---|---|
@@ -150,7 +202,7 @@ Every project starts from a business question, organizes the data that answers i
 
 <img src="assets/divider.svg" alt="" width="100%" />
 
-### 07 · 🧰 Toolkit
+### 08 · 🧰 Toolkit
 
 <div align="center">
 
@@ -230,7 +282,7 @@ Every project starts from a business question, organizes the data that answers i
 
 <img src="assets/divider.svg" alt="" width="100%" />
 
-### 08 · 🎓 Background
+### 09 · 🎓 Background
 
 - Procurement analyst in aerospace direct materials (propulsion and avionics) until 2026, managing **200+ suppliers**.
 - **Six-figure (USD) savings** on strategic items without purchase history, validated by Finance, partly by adding new sources to single-source parts.
@@ -239,7 +291,7 @@ Every project starts from a business question, organizes the data that answers i
 
 <img src="assets/divider.svg" alt="" width="100%" />
 
-### 09 · 📬 Contact
+### 10 · 📬 Contact
 
 Belo Horizonte, Brazil · [LinkedIn](https://www.linkedin.com/in/stephany-alves) · [Himalayas](https://himalayas.app/@stephanyalves) · [Medium](https://medium.com/@stephany.alves) · [Peerlist](https://peerlist.io/stephanyalves) · [DEV](https://dev.to/stephanyalves) · [Kaggle](https://www.kaggle.com/stephanyalveseng) · [Hugging Face](https://huggingface.co/stephany-alves) · [Tableau Public](https://public.tableau.com/app/profile/stephany.alves/vizzes)
 
