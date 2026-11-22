@@ -272,11 +272,11 @@ Every project starts from a business question, organizes the data that answers i
 
 <!-- The list below is refreshed daily by .github/workflows/recent-activity.yml -->
 <!--START_SECTION:activity-->
-1. 🔨 [brazil-resources-intelligence](https://github.com/stephanyalves-eng/brazil-resources-intelligence): [Tableau dashboards: cards and charts follow every click](https://github.com/stephanyalves-eng/brazil-resources-intelligence/commit/90f2110b5d685e7f23f863da81340ec7ca032d7c) · <sub>Nov 21, 2026</sub>
-2. 🔨 [renewal-cockpit](https://github.com/stephanyalves-eng/renewal-cockpit): [Replace README screenshots with GIFs of the app in use](https://github.com/stephanyalves-eng/renewal-cockpit/commit/ddcc30f823c821efd1d9ccaf7c93b1260c538236) · <sub>Nov 21, 2026</sub>
-3. 🔨 [vendor-renewal-cockpit](https://github.com/stephanyalves-eng/vendor-renewal-cockpit): [Replace README screenshots with GIFs of the app in use](https://github.com/stephanyalves-eng/vendor-renewal-cockpit/commit/45787ca1b22a4be107ea7603698c4e406b9c8a6d) · <sub>Nov 21, 2026</sub>
-4. 🔨 [procurement-market-briefs](https://github.com/stephanyalves-eng/procurement-market-briefs): [Restyle the one-page briefs in Stephany Alves Design System 2.0](https://github.com/stephanyalves-eng/procurement-market-briefs/commit/b4ed69d0157e42b6b03d3d247ad3298e88a4d6c3) · <sub>Nov 19, 2026</sub>
-5. 🔨 [procurement-analytics-olist](https://github.com/stephanyalves-eng/procurement-analytics-olist): [Link the published Kaggle notebook](https://github.com/stephanyalves-eng/procurement-analytics-olist/commit/544136919c5f79bd220807f8541089995e788d45) · <sub>Nov 16, 2026</sub>
+1. 🔨 [fintech-analytics-lab](https://github.com/stephanyalves-eng/fintech-analytics-lab): [docs: record browser QA, dependency scan and Linux verification in CI](https://github.com/stephanyalves-eng/fintech-analytics-lab/commit/cd802e3df1e81d6ea672b5e50cc00aa020710bb7) · <sub>Nov 22, 2026</sub>
+2. 🔨 [opsanomaly-ai](https://github.com/stephanyalves-eng/opsanomaly-ai): [Showcase app demo with thumbnail, GIFs and Cloudflare link](https://github.com/stephanyalves-eng/opsanomaly-ai/commit/d605036364bd0007bf03f553597e01ca9032734c) · <sub>Nov 21, 2026</sub>
+3. 🔨 [procurement-market-briefs](https://github.com/stephanyalves-eng/procurement-market-briefs): [Merge pull request #2 from stephanyalves-eng/data-vintage-and-cutoff-tests](https://github.com/stephanyalves-eng/procurement-market-briefs/commit/02f7d857ef12a10f2b2629c4e072543b10a68575) · <sub>Nov 21, 2026</sub>
+4. 🔨 [brazil-resources-intelligence](https://github.com/stephanyalves-eng/brazil-resources-intelligence): [Tableau dashboards: cards and charts follow every click](https://github.com/stephanyalves-eng/brazil-resources-intelligence/commit/90f2110b5d685e7f23f863da81340ec7ca032d7c) · <sub>Nov 21, 2026</sub>
+5. 🔨 [renewal-cockpit](https://github.com/stephanyalves-eng/renewal-cockpit): [Replace README screenshots with GIFs of the app in use](https://github.com/stephanyalves-eng/renewal-cockpit/commit/ddcc30f823c821efd1d9ccaf7c93b1260c538236) · <sub>Nov 21, 2026</sub>
 <!--END_SECTION:activity-->
 
 </details>
