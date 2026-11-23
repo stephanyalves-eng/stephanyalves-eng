@@ -272,11 +272,11 @@ Every project starts from a business question, organizes the data that answers i
 
 <!-- The list below is refreshed daily by .github/workflows/recent-activity.yml -->
 <!--START_SECTION:activity-->
-1. 🔨 [fintech-analytics-lab](https://github.com/stephanyalves-eng/fintech-analytics-lab): [docs: record browser QA, dependency scan and Linux verification in CI](https://github.com/stephanyalves-eng/fintech-analytics-lab/commit/cd802e3df1e81d6ea672b5e50cc00aa020710bb7) · <sub>Nov 22, 2026</sub>
-2. 🔨 [opsanomaly-ai](https://github.com/stephanyalves-eng/opsanomaly-ai): [Showcase app demo with thumbnail, GIFs and Cloudflare link](https://github.com/stephanyalves-eng/opsanomaly-ai/commit/d605036364bd0007bf03f553597e01ca9032734c) · <sub>Nov 21, 2026</sub>
-3. 🔨 [procurement-market-briefs](https://github.com/stephanyalves-eng/procurement-market-briefs): [Merge pull request #2 from stephanyalves-eng/data-vintage-and-cutoff-tests](https://github.com/stephanyalves-eng/procurement-market-briefs/commit/02f7d857ef12a10f2b2629c4e072543b10a68575) · <sub>Nov 21, 2026</sub>
-4. 🔨 [brazil-resources-intelligence](https://github.com/stephanyalves-eng/brazil-resources-intelligence): [Tableau dashboards: cards and charts follow every click](https://github.com/stephanyalves-eng/brazil-resources-intelligence/commit/90f2110b5d685e7f23f863da81340ec7ca032d7c) · <sub>Nov 21, 2026</sub>
-5. 🔨 [renewal-cockpit](https://github.com/stephanyalves-eng/renewal-cockpit): [Replace README screenshots with GIFs of the app in use](https://github.com/stephanyalves-eng/renewal-cockpit/commit/ddcc30f823c821efd1d9ccaf7c93b1260c538236) · <sub>Nov 21, 2026</sub>
+1. 🔨 [documind-ai](https://github.com/stephanyalves-eng/documind-ai): [Use Node.js 24 actions for hosted quality checks](https://github.com/stephanyalves-eng/documind-ai/commit/1671bd19bb58c28164cddb4180c73d05e0061425) · <sub>Nov 23, 2026</sub>
+2. 🔨 [renewal-cockpit](https://github.com/stephanyalves-eng/renewal-cockpit): [Add the narrated project tour video to the Overview](https://github.com/stephanyalves-eng/renewal-cockpit/commit/fb316a336e4daaeda1a4d269da203ae9def59754) · <sub>Nov 23, 2026</sub>
+3. 🔨 [vendor-renewal-cockpit](https://github.com/stephanyalves-eng/vendor-renewal-cockpit): [Add licenses: MIT for code, CC BY 4.0 for the synthetic data](https://github.com/stephanyalves-eng/vendor-renewal-cockpit/commit/478e45e289e71c8ef0457aa2e9ac781a25fa53ac) · <sub>Nov 23, 2026</sub>
+4. 🔨 [fintech-analytics-lab](https://github.com/stephanyalves-eng/fintech-analytics-lab): [docs: record browser QA, dependency scan and Linux verification in CI](https://github.com/stephanyalves-eng/fintech-analytics-lab/commit/cd802e3df1e81d6ea672b5e50cc00aa020710bb7) · <sub>Nov 22, 2026</sub>
+5. 🔨 [opsanomaly-ai](https://github.com/stephanyalves-eng/opsanomaly-ai): [Showcase app demo with thumbnail, GIFs and Cloudflare link](https://github.com/stephanyalves-eng/opsanomaly-ai/commit/d605036364bd0007bf03f553597e01ca9032734c) · <sub>Nov 21, 2026</sub>
 <!--END_SECTION:activity-->
 
 </details>
