@@ -272,11 +272,11 @@ Every project starts from a business question, organizes the data that answers i
 
 <!-- The list below is refreshed daily by .github/workflows/recent-activity.yml -->
 <!--START_SECTION:activity-->
-1. 🔨 [documind-ai](https://github.com/stephanyalves-eng/documind-ai): [Use Node.js 24 actions for hosted quality checks](https://github.com/stephanyalves-eng/documind-ai/commit/1671bd19bb58c28164cddb4180c73d05e0061425) · <sub>Nov 23, 2026</sub>
-2. 🔨 [renewal-cockpit](https://github.com/stephanyalves-eng/renewal-cockpit): [Add the narrated project tour video to the Overview](https://github.com/stephanyalves-eng/renewal-cockpit/commit/fb316a336e4daaeda1a4d269da203ae9def59754) · <sub>Nov 23, 2026</sub>
-3. 🔨 [vendor-renewal-cockpit](https://github.com/stephanyalves-eng/vendor-renewal-cockpit): [Add licenses: MIT for code, CC BY 4.0 for the synthetic data](https://github.com/stephanyalves-eng/vendor-renewal-cockpit/commit/478e45e289e71c8ef0457aa2e9ac781a25fa53ac) · <sub>Nov 23, 2026</sub>
-4. 🔨 [fintech-analytics-lab](https://github.com/stephanyalves-eng/fintech-analytics-lab): [docs: record browser QA, dependency scan and Linux verification in CI](https://github.com/stephanyalves-eng/fintech-analytics-lab/commit/cd802e3df1e81d6ea672b5e50cc00aa020710bb7) · <sub>Nov 22, 2026</sub>
-5. 🔨 [opsanomaly-ai](https://github.com/stephanyalves-eng/opsanomaly-ai): [Showcase app demo with thumbnail, GIFs and Cloudflare link](https://github.com/stephanyalves-eng/opsanomaly-ai/commit/d605036364bd0007bf03f553597e01ca9032734c) · <sub>Nov 21, 2026</sub>
+1. 🔨 [p1-wire-harness-should-cost](https://github.com/stephanyalves-eng/p1-wire-harness-should-cost): [Merge pull request #21 from stephanyalves-eng/feat/purchasing-generator](https://github.com/stephanyalves-eng/p1-wire-harness-should-cost/commit/f63c6cc03feb7996bd6262c655874fc4f29f34e3) · <sub>Nov 24, 2026</sub>
+2. 🔨 [p4-mine-to-port-planning](https://github.com/stephanyalves-eng/p4-mine-to-port-planning): [Merge pull request #17 from stephanyalves-eng/fix/ci-install-requirements](https://github.com/stephanyalves-eng/p4-mine-to-port-planning/commit/e4a9795307801e513598cb505a68e18ec161733b) · <sub>Nov 24, 2026</sub>
+3. 🔨 [p3-assembly-line-simulation](https://github.com/stephanyalves-eng/p3-assembly-line-simulation): [Merge pull request #16 from stephanyalves-eng/fix/ci-install-requirements](https://github.com/stephanyalves-eng/p3-assembly-line-simulation/commit/beaad103b471061de6244f0a15388326922cabeb) · <sub>Nov 24, 2026</sub>
+4. 🔨 [p2-field-failure-spc](https://github.com/stephanyalves-eng/p2-field-failure-spc): [Merge pull request #18 from stephanyalves-eng/fix/ci-install-requirements](https://github.com/stephanyalves-eng/p2-field-failure-spc/commit/a59209210c378753195ffbe819f4d73053d16c9b) · <sub>Nov 24, 2026</sub>
+5. 🔨 [eng-project-template](https://github.com/stephanyalves-eng/eng-project-template): [Merge pull request #3 from stephanyalves-eng/fix/ci-install-requirements](https://github.com/stephanyalves-eng/eng-project-template/commit/92de16d41c62d5c7963abec264ec346601db2672) · <sub>Nov 24, 2026</sub>
 <!--END_SECTION:activity-->
 
 </details>
