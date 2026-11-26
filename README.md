@@ -271,11 +271,11 @@ Every project starts from a business question, organizes the data that answers i
 
 <!-- The list below is refreshed daily by .github/workflows/recent-activity.yml -->
 <!--START_SECTION:activity-->
-1. 🔨 [p1-wire-harness-should-cost](https://github.com/stephanyalves-eng/p1-wire-harness-should-cost): [Merge pull request #21 from stephanyalves-eng/feat/purchasing-generator](https://github.com/stephanyalves-eng/p1-wire-harness-should-cost/commit/f63c6cc03feb7996bd6262c655874fc4f29f34e3) · <sub>Nov 24, 2026</sub>
-2. 🔨 [p4-mine-to-port-planning](https://github.com/stephanyalves-eng/p4-mine-to-port-planning): [Merge pull request #17 from stephanyalves-eng/fix/ci-install-requirements](https://github.com/stephanyalves-eng/p4-mine-to-port-planning/commit/e4a9795307801e513598cb505a68e18ec161733b) · <sub>Nov 24, 2026</sub>
-3. 🔨 [p3-assembly-line-simulation](https://github.com/stephanyalves-eng/p3-assembly-line-simulation): [Merge pull request #16 from stephanyalves-eng/fix/ci-install-requirements](https://github.com/stephanyalves-eng/p3-assembly-line-simulation/commit/beaad103b471061de6244f0a15388326922cabeb) · <sub>Nov 24, 2026</sub>
-4. 🔨 [p2-field-failure-spc](https://github.com/stephanyalves-eng/p2-field-failure-spc): [Merge pull request #18 from stephanyalves-eng/fix/ci-install-requirements](https://github.com/stephanyalves-eng/p2-field-failure-spc/commit/a59209210c378753195ffbe819f4d73053d16c9b) · <sub>Nov 24, 2026</sub>
-5. 🔨 [eng-project-template](https://github.com/stephanyalves-eng/eng-project-template): [Merge pull request #3 from stephanyalves-eng/fix/ci-install-requirements](https://github.com/stephanyalves-eng/eng-project-template/commit/92de16d41c62d5c7963abec264ec346601db2672) · <sub>Nov 24, 2026</sub>
+1. 🔨 [p1-wire-harness-should-cost](https://github.com/stephanyalves-eng/p1-wire-harness-should-cost): [Merge pull request #28 from stephanyalves-eng/feat/should-cost-tree](https://github.com/stephanyalves-eng/p1-wire-harness-should-cost/commit/389cd3681bbebb8a14c75d8b255112a244ed8f04) · <sub>Nov 26, 2026</sub>
+2. 🔨 [p2-field-failure-spc](https://github.com/stephanyalves-eng/p2-field-failure-spc): [Merge pull request #22 from stephanyalves-eng/feat/faa-sdr](https://github.com/stephanyalves-eng/p2-field-failure-spc/commit/c6b8304278a989a9b1195822bd066c06279b9170) · <sub>Nov 26, 2026</sub>
+3. 🔨 [vendor-renewal-cockpit](https://github.com/stephanyalves-eng/vendor-renewal-cockpit): [Link the companion web app repository near the top](https://github.com/stephanyalves-eng/vendor-renewal-cockpit/commit/4c868fbf167f14e7051d188494b86b7f2448caf6) · <sub>Nov 26, 2026</sub>
+4. 🔨 [renewal-cockpit](https://github.com/stephanyalves-eng/renewal-cockpit): [Link the companion data repository near the top](https://github.com/stephanyalves-eng/renewal-cockpit/commit/2e8d2edd8c45340ad5af482d1850501ff540472c) · <sub>Nov 26, 2026</sub>
+5. 🔨 [aeroquote-compass](https://github.com/stephanyalves-eng/aeroquote-compass): [Show the AeroQuote workflow with a GIF and screenshots](https://github.com/stephanyalves-eng/aeroquote-compass/commit/6b46cb4ec57c77e920119458a517f39858444218) · <sub>Nov 26, 2026</sub>
 <!--END_SECTION:activity-->
 
 </details>
