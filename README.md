@@ -52,12 +52,12 @@
 
 ### 01 · 🌱 Right now
 
-- 🔭 **Building:** AeroQuote Compass and a should-cost model for wire harnesses and connectors
-- 📚 **Learning:** SQL, Python, Tableau and Databricks, through the portfolio projects below
+- 🔭 **Building:** a [should-cost model for wire harnesses and connectors](https://github.com/stephanyalves-eng/p1-wire-harness-should-cost), including a backtest of copper price-adjustment clauses
+- 📊 **Maintaining:** [monthly procurement market briefs](https://github.com/stephanyalves-eng/procurement-market-briefs) in English and Brazilian Portuguese
 - 💬 **Ask me about:** should-cost, strategic sourcing, procurement, supplier quality, maintenance engineering, vendor management and procurement analytics
 - 🤝 **Open to:** Senior Procurement Analyst · Procurement Analyst · Strategic Sourcing Analyst · Supplier Quality Engineer · Data Analyst
 - 📍 **Availability:** Belo Horizonte, Brazil (UTC−3) · remote, hybrid or on-site · available immediately · [📅 Book a 30-min call](https://calendar.app.google/y34oLpDbrQeJnDhh9)
-- 🗣️ **Languages:** Brazilian Portuguese (native) · English (fluent) · Spanish (fluent)
+- 🗣️ **Languages:** Brazilian Portuguese (native) · English (fluent) · Spanish (C1)
 - ⚡ **Fun fact:** I can't look at a cable anymore without estimating its should-cost, copper price included.
 - 📖 **Outside work:** reading
 
@@ -153,7 +153,6 @@
 | **Procurement analytics with SQL and Python** | Spend concentration (Pareto, HHI), seller dispatch SLA and a weighted supplier scorecard on 99k public Olist orders. 17.7% of sellers hold 80% of spend; measuring at delivery hides 78.8% of late dispatches; a 633-seller scorecard narrows action to 60 priority sellers. | `SQL` `DuckDB` `Python` `pandas` `Plotly` `pytest` | ![Complete](https://img.shields.io/badge/✔_COMPLETE-06402B?style=flat-square)<br/>[Repo](https://github.com/stephanyalves-eng/procurement-analytics-olist) · [Summary (PDF)](https://github.com/stephanyalves-eng/procurement-analytics-olist/blob/main/reports/executive_summary.pdf) · [Kaggle](https://www.kaggle.com/code/stephanyalveseng/procurement-lens-on-olist-supplier-scorecard) |
 | **Brazilian mining performance and market concentration** | SQL-first analysis of ANM open data (2010–2025, 2.43M CFEM royalty rows): price vs volume, commodity and state mix, and HHI concentration. Iron ore's share fell from 75.8% to 56.7%, VALE pays 70.6% of iron ore royalties, and a duplicate export in the Feb 2024 file would overstate 2024 growth (12.8% instead of 8.4%). 117 tests. | `SQL` `DuckDB` `Python` `pytest` `Tableau` | ![Complete](https://img.shields.io/badge/✔_COMPLETE-06402B?style=flat-square)<br/>[Repo](https://github.com/stephanyalves-eng/brazil-resources-intelligence/tree/main/mining-intelligence) · [Dashboard](https://public.tableau.com/app/profile/stephany.alves/viz/Brazilian_Mining_Performance/1ExecutiveOverview) |
 | **Brazilian oil and gas production analytics** | Python pipeline on ANP monthly production (1997–2026): growth regimes, regional concentration, stability and gas use. 97.6% of oil is offshore, more than half of the gas is now reinjected (54.4% in 2025) and flaring fell from 17.9% to 2.8%. 90 tests. | `Python` `pandas` `NumPy` `Matplotlib` `pytest` `Tableau` | ![Complete](https://img.shields.io/badge/✔_COMPLETE-06402B?style=flat-square)<br/>[Repo](https://github.com/stephanyalves-eng/brazil-resources-intelligence/tree/main/oil-gas-intelligence) · [Dashboard](https://public.tableau.com/app/profile/stephany.alves/viz/Brazilian_Oil_Gas_Production/1ProductionOverview) |
-| **Supplier performance dashboard in Tableau** | Supplier scorecards and delivery risk, built for decision meetings. | `Tableau` | ![In progress](https://img.shields.io/badge/IN_PROGRESS-2B2F2E?style=flat-square) |
 | **Wire harness and connector should-cost** | Bottom-up should-cost and category strategy for wire harnesses and connectors, calibrated on Comex Stat import prices, with a copper price-adjustment clause backtested for both buyer and supplier. | `Python` `Comex Stat` `Should-cost` | ![In progress](https://img.shields.io/badge/IN_PROGRESS-2B2F2E?style=flat-square)<br/>[Repo](https://github.com/stephanyalves-eng/p1-wire-harness-should-cost) |
 | **Field failure intelligence and crimping SPC** | Links field failure modes from NHTSA and FAA data to crimp height control, with SPC charts, Cpk, Gage R&R, an 8D on a real recall and an AIAG-VDA PFMEA. | `Python` `SPC` `PFMEA` `8D` | ![In progress](https://img.shields.io/badge/IN_PROGRESS-2B2F2E?style=flat-square)<br/>[Repo](https://github.com/stephanyalves-eng/p2-field-failure-spc) |
 | **Assembly line simulation for rate ramp-up** | Discrete-event simulation of a subassembly line moving from 42 to 47 aircraft per month, comparing line improvements by cost per additional unit. | `Python` `Discrete-event simulation` | ![In progress](https://img.shields.io/badge/IN_PROGRESS-2B2F2E?style=flat-square)<br/>[Repo](https://github.com/stephanyalves-eng/p3-assembly-line-simulation) |
@@ -227,8 +226,6 @@ Every project starts from a business question, organizes the data that answers i
 ![Git](https://img.shields.io/badge/Git-2B2F2E?style=flat-square&logo=git&logoColor=C97A3A)
 ![GitHub](https://img.shields.io/badge/GitHub-2B2F2E?style=flat-square&logo=github&logoColor=C97A3A)
 
-<sub>SQL, Python, Tableau and Databricks: building portfolio projects now.</sub>
-
 **Product and AI**
 
 ![Lovable](https://img.shields.io/badge/Lovable-06402B?style=flat-square)
@@ -288,7 +285,7 @@ Every project starts from a business question, organizes the data that answers i
 - Procurement analyst in aerospace direct materials (propulsion and avionics) until 2026, managing **200+ suppliers**.
 - **Six-figure (USD) savings** on strategic items without purchase history, validated by Finance, partly by adding new sources to single-source parts.
 - Led a Kaizen that removed **97% of the effort** in low-risk supplier due diligence renewals.
-- B.Sc. in Industrial Engineering and B.B.A. (UFVJM) · Postgraduate degree in Aeronautical Maintenance Engineering (PUC Minas) · Brazilian Portuguese (native), English and Spanish (fluent).
+- B.Sc. in Industrial Engineering and B.B.A. (UFVJM) · Postgraduate degree in Aeronautical Maintenance Engineering (PUC Minas) · Brazilian Portuguese (native), English (fluent), Spanish (C1).
 
 <img src="assets/divider.svg" alt="" width="100%" />
 
